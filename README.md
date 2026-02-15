@@ -56,6 +56,7 @@ for Real-Time Interactive Video Generation". [![arXiv](https://img.shields.io/ba
 <div align=center>
 <img width="582" height="59" alt="image" src="https://github.com/user-attachments/assets/cae08ae6-8adb-4249-b1b4-232dc332f943" />
 </div>
+
 ## 1.3 Long Video Generation
 
 * Training-based
