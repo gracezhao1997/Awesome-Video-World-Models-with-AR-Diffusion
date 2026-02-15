@@ -54,11 +54,9 @@ for Real-Time Interactive Video Generation". [![arXiv](https://img.shields.io/ba
 * [⭐] **Self Forcing**, "Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion". [![arXiv](https://img.shields.io/badge/arXiv-2506.08009-b31b1b.svg)](https://arxiv.org/abs/2506.08009) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://seaweed-apt.com/2) 
 * [⭐] **Causal Forcing**, "Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2602.02214-b31b1b.svg)](https://arxiv.org/abs/2602.02214) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://thu-ml.github.io/CausalForcing.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/thu-ml/Causal-Forcing) 
 
-$$\boxed{
-\text{CausVid} \xrightarrow{\text{fixingDMD}} \text{Self Forcing} \xrightarrow{\text{fixingODE}} \text{Causal Forcing}
-}
-$$
-
+<div align=center>
+<img width="582" height="59" alt="image" src="https://github.com/user-attachments/assets/cae08ae6-8adb-4249-b1b4-232dc332f943" />
+</div>
 ## 1.3 Long Video Generation
 
 * Training-based
