@@ -70,7 +70,7 @@ This category of algorithms focuses on **distilling multi-step bidirectional dif
     * **Deep Forcing**, "Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression". [![arXiv](https://img.shields.io/badge/arXiv-2512.05081-b31b1b.svg)](https://arxiv.org/abs/2512.05081) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cvlab-kaist.github.io/DeepForcing/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/cvlab-kaist/DeepForcing) 
 
 * Long-term Memory
-  * **WORLDMEM**, "WORLDMEM: Long-term Consistent
+    * **WORLDMEM**, "WORLDMEM: Long-term Consistent
 World Simulation with Memory". [![arXiv](https://img.shields.io/badge/arXiv-2504.12369-b31b1b.svg)](https://arxiv.org/pdf/2504.12369) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xizaoqu.github.io/worldmem/)[![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/xizaoqu/WorldMem)
     * **VRAG**, "Learning World Models for Interactive Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2505.21996-b31b1b.svg)](https://arxiv.org/abs/2505.21996) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/vrag)[![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/yeyutaihan/vrag) 
     * **Context as Memory**, "Context as Memory: Scene-Consistent Interactive Long Video
