@@ -82,7 +82,9 @@ Generation with Memory Retrieval". [![arXiv](https://img.shields.io/badge/arXiv-
     * **Infinite-World**, "Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory". [![arXiv](https://img.shields.io/badge/arXiv-2602.02393-b31b1b.svg)](https://arxiv.org/abs/2602.02393)
     * **Context Forcing**, "Context Forcing: Consistent Autoregressive Video Generation with Long Context". [![arXiv](https://img.shields.io/badge/arXiv-2602.06028-b31b1b.svg)](https://arxiv.org/abs/2602.06028) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://chenshuo20.github.io/Context_Forcing/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/TIGER-AI-Lab/Context-Forcing)
 ## 2. Application
+
 > Up to 26.01 now. Welcome Pull Requests!
+
 ## 2.1 Open-source AR Video Foundation Models
 * **SkyReels**, "SkyReels-V2: Infinite-length Film Generative Model". [![arXiv](https://img.shields.io/badge/arXiv-2504.13074-b31b1b.svg)](https://arxiv.org/abs/2504.13074) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.skyreels.ai/home?utm_campaign=github_SkyReels_V2) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/SkyworkAI/SkyReels-V2)
 * **MAGI-1**, "MAGI-1: Autoregressive Video Generation at Scale". [![arXiv](https://img.shields.io/badge/arXiv-2505.13211-b31b1b.svg)](https://arxiv.org/abs/2505.13211) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sand.ai/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/SandAI-org/MAGI-1)
