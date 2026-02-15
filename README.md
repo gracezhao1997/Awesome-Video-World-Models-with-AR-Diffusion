@@ -84,7 +84,7 @@ World Simulation with Memory". [![arXiv](https://img.shields.io/badge/arXiv-2504
 
 ## 2. Application
 
-### 2.1 Open-source Video Foundation Models
+### 2.1 Open-source AR Video Foundation Models
 
 * **MAGI-1**, "MAGI-1: Autoregressive Video Generation at Scale". [![arXiv](https://img.shields.io/badge/arXiv-2505.13211-b31b1b.svg)](https://arxiv.org/abs/2505.13211) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sand.ai/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/SandAI-org/MAGI-1)
 
