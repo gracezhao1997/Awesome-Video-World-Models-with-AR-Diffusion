@@ -41,18 +41,20 @@ Mitigating Drift in Autoregressive Video Diffusion Models". [![arXiv](https://im
 ## 1.2 🔥 AR Diffusion Distillation for Real-time Generation (post training)
 This category of algorithms focuses on **distilling multi-step bidirectional diffusion models into few-step AR models**, specifically tailored for **real-time streaming generation**.
 
-* [⭐] **CausVid**, "From Slow Bidirectional to Fast Causal Video Generators". [![arXiv](https://img.shields.io/badge/arXiv-2412.07772-b31b1b.svg)](https://arxiv.org/abs/2412.07772) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://causvid.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/tianweiy/CausVid)
-* [⭐] **Self Forcing**, "Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion". [![arXiv](https://img.shields.io/badge/arXiv-2506.08009-b31b1b.svg)](https://arxiv.org/abs/2506.08009) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://seaweed-apt.com/2) 
-* [⭐] **Causal Forcing**, "Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2602.02214-b31b1b.svg)](https://arxiv.org/abs/2602.02214) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://thu-ml.github.io/CausalForcing.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/thu-ml/Causal-Forcing) 
+- From Multi-step Bidirectional Diffusion to Few-step Autoregressive Generators:
+    * [⭐] **CausVid**, "From Slow Bidirectional to Fast Causal Video Generators". [![arXiv](https://img.shields.io/badge/arXiv-2412.07772-b31b1b.svg)](https://arxiv.org/abs/2412.07772) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://causvid.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/tianweiy/CausVid)
+    * [⭐] **Self Forcing**, "Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion". [![arXiv](https://img.shields.io/badge/arXiv-2506.08009-b31b1b.svg)](https://arxiv.org/abs/2506.08009) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://seaweed-apt.com/2) 
+    * [⭐] **Causal Forcing**, "Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2602.02214-b31b1b.svg)](https://arxiv.org/abs/2602.02214) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://thu-ml.github.io/CausalForcing.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/thu-ml/Causal-Forcing) 
 
 <div align=center>
 <img width="582" height="59" alt="image" src="https://github.com/user-attachments/assets/cae08ae6-8adb-4249-b1b4-232dc332f943" />
 </div>
-
-* (Adversarial distillation) **Seaweed APT2**, "Autoregressive Adversarial Post-Training
-for Real-Time Interactive Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2506.08009-b31b1b.svg)](https://arxiv.org/pdf/2506.09350) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://seaweed-apt.com/2)
-* (One-step distillation) **ASD**, "Towards One-Step Causal Video Generation via Adversarial Self-Distillation". [![arXiv](https://img.shields.io/badge/arXiv-2511.01419-b31b1b.svg)](https://arxiv.org/abs/2511.01419) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/BigAandSmallq/SAD)
-* (Reinforcement learning) **Reward Forcing**, "Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation". [![arXiv](https://img.shields.io/badge/arXiv-2512.04678-b31b1b.svg)](https://arxiv.org/abs/2512.04678) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://reward-forcing.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/JaydenLyh/Reward-Forcing)
+<br>
+- Further Improvements:
+    * (Adversarial distillation) **Seaweed APT2**, "Autoregressive Adversarial Post-Training
+    for Real-Time Interactive Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2506.08009-b31b1b.svg)](https://arxiv.org/pdf/2506.09350) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://seaweed-apt.com/2)
+    * (One-step distillation) **ASD**, "Towards One-Step Causal Video Generation via Adversarial Self-Distillation". [![arXiv](https://img.shields.io/badge/arXiv-2511.01419-b31b1b.svg)](https://arxiv.org/abs/2511.01419) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/BigAandSmallq/SAD)
+    * (Reinforcement learning) **Reward Forcing**, "Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation". [![arXiv](https://img.shields.io/badge/arXiv-2512.04678-b31b1b.svg)](https://arxiv.org/abs/2512.04678) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://reward-forcing.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/JaydenLyh/Reward-Forcing)
 
 ## 1.3 Long Video Generation
 
