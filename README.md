@@ -9,8 +9,8 @@ This repository surveys autoregressive-diffusion video generation models (AR vid
 ### Table of Contents
 
 - [1. Algorithm](#1-algorithm)
-    - [1.1 AR Diffusion (native pretraining)](#11-ar-diffusion-for-streaming-generation)
-    - [1.2 AR Diffusion Distillation for Real-time Generation (post training)](#12-ar-diffusion-distillation-for-real-time-streaming-generation)
+    - [1.1 AR Diffusion (native pretraining)](#11-ar-diffusion-native-pretraining)
+    - [1.2 AR Diffusion Distillation for Real-time Generation (post training)](#12--ar-diffusion-distillation-for-real-time-generation-post-training)
     - [1.3 Long Video Generation](#13-long-video-generation)
 - [2. Application](#2-application)
     - [2.1 Open-source AR Video Foundation Models](#21-general-video-world-model)
