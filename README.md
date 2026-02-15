@@ -13,7 +13,7 @@ This repository surveys autoregressive-diffusion video generation models (AR vid
     - [1.2 AR Diffusion Distillation for Real-time Generation (post training)](#12--ar-diffusion-distillation-for-real-time-generation-post-training)
     - [1.3 Long Video Generation](#13-long-video-generation)
 - [2. Application](#2-application)
-    - [2.1 Open-source AR Video Foundation Models](#21-general-video-world-model)
+    - [2.1 Open-source AR Video Foundation Models](#21-open-source-ar-video-foundation-models)
     - [2.2 Video Action World Model](#22-video-action-world-model)
     - [2.2 Avtar](#23-avtar)
 - [3. Infrastructure](#3-infrastructure)
