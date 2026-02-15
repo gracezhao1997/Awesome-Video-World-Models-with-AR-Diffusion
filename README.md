@@ -24,7 +24,7 @@ This repository surveys autoregressive-diffusion video generation models (AR vid
 
 
 ## 1. Algorithm
-## 1.1 AR Diffusion for Streaming Generation
+## 1.1 AR Diffusion (native pretraining)
 
 These methods focus on basic **AR Diffusion (where each chunk/frame is generated via diffusion and the frames are AR)**, which, while enabling streaming generation, still rely on multi-step sampling, making real-time generation challenging.
 
@@ -37,7 +37,7 @@ Mitigating Drift in Autoregressive Video Diffusion Models". [![arXiv](https://im
 * **Resampling Forcing**, "End-to-End Training for Autoregressive Video Diffusion via Self-Resampling". [![arXiv](https://img.shields.io/badge/arXiv-2512.15702-b31b1b.svg)](https://arxiv.org/abs/2512.15702) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://guoyww.github.io/projects/resampling-forcing/) 
 
 
-## 1.2 🔥 AR Diffusion Distillation for Real-time Streaming Generation
+## 1.2 🔥 AR Diffusion Distillation for Real-time Generation (post training)
 
 This category of algorithms focuses on **distilling multi-step bidirectional diffusion models into few-step AR models**, specifically tailored for **real-time streaming generation**.
 * **Seaweed APT2**, "Autoregressive Adversarial Post-Training
@@ -50,12 +50,7 @@ for Real-Time Interactive Video Generation". [![arXiv](https://img.shields.io/ba
 <img width="582" height="59" alt="image" src="https://github.com/user-attachments/assets/cae08ae6-8adb-4249-b1b4-232dc332f943" />
 </div>
 
-## 1.3 Reinforcement Learning
-
-* **Reward Forcing**, "Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation". [![arXiv](https://img.shields.io/badge/arXiv-2512.04678-b31b1b.svg)](https://arxiv.org/abs/2512.04678) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://reward-forcing.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/JaydenLyh/Reward-Forcing) 
-
-
-## 1.4 Long Video Generation
+## 1.3 Long Video Generation
 
 * Long video quality
 
