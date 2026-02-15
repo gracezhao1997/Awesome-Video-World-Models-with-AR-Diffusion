@@ -15,7 +15,7 @@ This repository surveys autoregressive-diffusion video generation models (AR vid
 - [2. Application](#2-application)
     - [2.1 Open-source AR Video Foundation Models](#21-open-source-ar-video-foundation-models)
     - [2.2 Video Action World Model](#22-video-action-world-model)
-    - [2.2 Avtar](#23-avtar)
+    - [2.2 Avtar & Motion Control](#23-avtar--motion-control)
 - [3. Infrastructure](#3-infrastructure)
     - [3.1 Sparsity](#31-sparsity)
     - [3.2 Caching](#32-caching)
@@ -111,7 +111,8 @@ with Long-Horizon Memory". [![arXiv](https://img.shields.io/badge/arXiv-2512.040
 
 
 
-## 2.3 Avtar
+## 2.3 Avtar & Motion Control
+* **MotionStream**, "MotionStream: Real-Time Video Generation with Interactive Motion Controls".  [![arXiv](https://img.shields.io/badge/arXiv-2511.01266-b31b1b.svg)](https://arxiv.org/abs/2511.01266) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://joonghyuk.com/motionstream-web) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/alex4727/motionstream)  
 * **RealVideo**, [![Website](https://img.shields.io/badge/Website-Link-blue)](https://z.ai/blog/realvideo) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/zai-org/RealVideo) 
 * **LiveAvatar**, "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length". [![arXiv](https://img.shields.io/badge/arXiv-2512.04677-b31b1b.svg)](https://arxiv.org/abs/2512.04677) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://liveavatar.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Alibaba-Quark/LiveAvatar)
 * **SoulX-FlashTalk**, "SoulX-FlashTalk: Real-Time Infinite Streaming of Audio-Driven Avatars via Self-Correcting Bidirectional Distillation". [![arXiv](https://img.shields.io/badge/arXiv-2512.23379-b31b1b.svg)](https://arxiv.org/abs/2512.23379) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://soul-ailab.github.io/soulx-flashtalk/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Soul-AILab/SoulX-FlashTalk)
