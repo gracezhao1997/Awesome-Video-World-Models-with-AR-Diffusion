@@ -108,16 +108,15 @@ streaming interactive world model". [![arXiv](https://img.shields.io/badge/arXiv
 
 ## 3 Infrastructure
 
-## 3.1 Sparse Attention
+## 3.1 Sparsity
 
 * **Dummy Forcing**, "Efficient Autoregressive Video Diffusion with Dummy Head". [![arXiv](https://img.shields.io/badge/arXiv-2601.20499-b31b1b.svg)](https://arxiv.org/abs/2601.20499) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://csguoh.github.io/project/DummyForcing/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/csguoh/DummyForcing)
 * **Light Forcing**, "Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention". [![arXiv](https://img.shields.io/badge/arXiv-2602.04789-b31b1b.svg)](https://arxiv.org/abs/2602.04789) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/chengtao-lv/LightForcing)
 * **Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention**, "Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention". [![arXiv](https://img.shields.io/badge/arXiv-2602.01801-b31b1b.svg)](https://arxiv.org/abs/2602.01801) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dvirsamuel.github.io/fast-auto-regressive-video/)
-
-## 3.2 Caching
-
 * **TokenTrim**, "TokenTrim: Inference-Time Token Pruning for Autoregressive Long Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2602.00268-b31b1b.svg)](https://arxiv.org/abs/2602.00268) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://arielshaulov.github.io/TokenTrim/)
-* **PaFu-KV**, "Past- and Future-Informed KV Cache Policy with Salience Estimation in Autoregressive Video Diffusion". [![arXiv](https://img.shields.io/badge/arXiv-2601.21896-b31b1b.svg)](https://arxiv.org/abs/2601.21896) 
+* **PaFu-KV**, "Past- and Future-Informed KV Cache Policy with Salience Estimation in Autoregressive Video Diffusion". [![arXiv](https://img.shields.io/badge/arXiv-2601.21896-b31b1b.svg)](https://arxiv.org/abs/2601.21896)
+* 
+## 3.2 Caching
 * **FlowCache**, "Flow caching for autoregressive video generation". [![arXiv](https://img.shields.io/badge/arXiv-2602.10825-b31b1b.svg)](https://arxiv.org/abs/2602.10825)  [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/mikeallen39/FlowCache)
 
 
