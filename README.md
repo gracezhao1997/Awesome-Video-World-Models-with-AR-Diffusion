@@ -50,6 +50,7 @@ This category of algorithms focuses on **distilling multi-step bidirectional dif
 <img width="582" height="59" alt="image" src="https://github.com/user-attachments/assets/cae08ae6-8adb-4249-b1b4-232dc332f943" />
 </div>
 <br>
+
 - Further Improvements:
     * (Adversarial distillation) **Seaweed APT2**, "Autoregressive Adversarial Post-Training
     for Real-Time Interactive Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2506.08009-b31b1b.svg)](https://arxiv.org/pdf/2506.09350) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://seaweed-apt.com/2)
