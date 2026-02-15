@@ -85,7 +85,7 @@ World Simulation with Memory". [![arXiv](https://img.shields.io/badge/arXiv-2504
 
 ## 2. Application
 
-### 2.1 Open-source AR Video Foundation Models
+## 2.1 Open-source AR Video Foundation Models
 
 * **MAGI-1**, "MAGI-1: Autoregressive Video Generation at Scale". [![arXiv](https://img.shields.io/badge/arXiv-2505.13211-b31b1b.svg)](https://arxiv.org/abs/2505.13211) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sand.ai/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/SandAI-org/MAGI-1)
 
@@ -93,7 +93,7 @@ World Simulation with Memory". [![arXiv](https://img.shields.io/badge/arXiv-2504
 
 
 
-### 2.2 Video Action World Model
+## 2.2 Video Action World Model
 
 * **Genie3**, "Genie3: A general purpose world model that can generate an unprecedented diversity of interactive environments". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/models/genie/) 
 
@@ -114,7 +114,7 @@ with Long-Horizon Memory". [![arXiv](https://img.shields.io/badge/arXiv-2512.040
 
 
 
-### 2.3 Avtar
+## 2.3 Avtar
 
 * **LiveAvatar**, "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length". [![arXiv](https://img.shields.io/badge/arXiv-2512.04677-b31b1b.svg)](https://arxiv.org/abs/2512.04677) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://liveavatar.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Alibaba-Quark/LiveAvatar)
 * **SoulX-FlashTalk**, "SoulX-FlashTalk: Real-Time Infinite Streaming of Audio-Driven Avatars via Self-Correcting Bidirectional Distillation". [![arXiv](https://img.shields.io/badge/arXiv-2512.23379-b31b1b.svg)](https://arxiv.org/abs/2512.23379) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://soul-ailab.github.io/soulx-flashtalk/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Soul-AILab/SoulX-FlashTalk)
@@ -136,7 +136,7 @@ with Long-Horizon Memory". [![arXiv](https://img.shields.io/badge/arXiv-2512.040
 * **FlowCache**, "Flow caching for autoregressive video generation". [![arXiv](https://img.shields.io/badge/arXiv-2602.10825-b31b1b.svg)](https://arxiv.org/abs/2602.10825)  [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/mikeallen39/FlowCache)
 
 
-### 3.3 Quantized Attention
+## 3.3 Quantized Attention
 
 * **Quant VideoGen**, "Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization". [![arXiv](https://img.shields.io/badge/arXiv-2602.02958-b31b1b.svg)](https://arxiv.org/abs/2602.02958)
 
