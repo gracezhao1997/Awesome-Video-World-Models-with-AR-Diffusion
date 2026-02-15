@@ -77,7 +77,7 @@ World Simulation with Memory". [![arXiv](https://img.shields.io/badge/arXiv-2504
 
     * **VRAG**, "Learning World Models for Interactive Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2505.21996-b31b1b.svg)](https://arxiv.org/abs/2505.21996) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/vrag)[![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/yeyutaihan/vrag) 
 
-    * **Infinite-World**, "Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory". [![arXiv](https://img.shields.io/badge/arXiv-https://arxiv.org/pdf/2602.02393-b31b1b.svg)](https://arxiv.org/abs/https://arxiv.org/pdf/2602.02393)
+    * **Infinite-World**, "Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory". [![arXiv](https://img.shields.io/badge/arXiv-2602.02393-b31b1b.svg)](https://arxiv.org/abs/https://arxiv.org/pdf/2602.02393)
 
 
     * **Memory Forcing**, "Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft". [![arXiv](https://img.shields.io/badge/arXiv-2510.03198-b31b1b.svg)](https://arxiv.org/abs/2510.03198) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://junchao-cs.github.io/MemoryForcing-demo/)
