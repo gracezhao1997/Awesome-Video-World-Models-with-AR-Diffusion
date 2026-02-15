@@ -44,7 +44,7 @@ Mitigating Drift in Autoregressive Video Diffusion Models". [![arXiv](https://im
 * **SkyReels**, "SkyReels-V2: Infinite-length Film Generative Model". [![arXiv](https://img.shields.io/badge/arXiv-2504.13074-b31b1b.svg)](https://arxiv.org/abs/2504.13074) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.skyreels.ai/home?utm_campaign=github_SkyReels_V2) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/SkyworkAI/SkyReels-V2)
 
 
-## 1.2 AR Diffusion Distillation for Real-time Streaming Generation
+## 🔥 1.2 AR Diffusion Distillation for Real-time Streaming Generation
 
 This category of algorithms focuses on **distilling multi-step bidirectional diffusion models into few-step AR models**, specifically tailored for **real-time streaming generation**.
 * **Seaweed APT2**, "Autoregressive Adversarial Post-Training
