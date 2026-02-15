@@ -11,8 +11,8 @@ This repository surveys autoregressive-diffusion video generation models (AR vid
 - [1. Algorithm](#1-algorithm)
     - [1.1 AR Diffusion for Streaming Generation](#11-ar-diffusion-for-streaming-generation)
     - [1.2 AR Diffusion Distillation for Real-time Streaming Generation](#12-ar-diffusion-distillation-for-real-time-streaming-generation)
-    - [1.3 Long Video Generation](#13-long-video-generation)
-    - [1.4 Reinforcement Learning](#14-reinforcement-learning)
+    - [1.3 Reinforcement Learning](#13-reinforcement-learning)
+    - [1.4 Long Video Generation](#14-long-video-generation)
 - [2. Application](#2-application)
     - [2.1 General Video World Model](#21-general-video-world-model)
     - [2.2 Avtar](#22-avtar)
@@ -57,7 +57,12 @@ for Real-Time Interactive Video Generation". [![arXiv](https://img.shields.io/ba
 <img width="582" height="59" alt="image" src="https://github.com/user-attachments/assets/cae08ae6-8adb-4249-b1b4-232dc332f943" />
 </div>
 
-## 1.3 Long Video Generation
+## 1.3 Reinforcement Learning
+
+* **Reward Forcing**, "Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation". [![arXiv](https://img.shields.io/badge/arXiv-2512.04678-b31b1b.svg)](https://arxiv.org/abs/2512.04678) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://reward-forcing.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/JaydenLyh/Reward-Forcing) 
+
+
+## 1.4 Long Video Generation
 
 * Training-based
 
@@ -75,10 +80,6 @@ for Real-Time Interactive Video Generation". [![arXiv](https://img.shields.io/ba
     * **Infinite Forcing**, [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/SOTAMak1r/Infinite-Forcing)
     * **Deep Forcing**, "Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression". [![arXiv](https://img.shields.io/badge/arXiv-2512.05081-b31b1b.svg)](https://arxiv.org/abs/2512.05081) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cvlab-kaist.github.io/DeepForcing/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/cvlab-kaist/DeepForcing)
     * **StableWorld**, "StableWorld: Towards Stable and Consistent Long Interactive Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2601.15281-b31b1b.svg)](https://arxiv.org/abs/2601.15281) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sd-world.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/xbyym/StableWorld) 
-
-## 1.4 Reinforcement Learning
-
-* **Reward Forcing**, "Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation". [![arXiv](https://img.shields.io/badge/arXiv-2512.04678-b31b1b.svg)](https://arxiv.org/abs/2512.04678) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://reward-forcing.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/JaydenLyh/Reward-Forcing) 
 
 
 
