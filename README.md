@@ -96,7 +96,7 @@ streaming interactive world model". [![arXiv](https://img.shields.io/badge/arXiv
 
 * **Yume 1.5**, "Yume-1.5: A Text-Controlled Interactive World Generation Model". [![arXiv](https://img.shields.io/badge/arXiv-2512.22096-b31b1b.svg)](https://arxiv.org/abs/2512.22096) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://stdstu12.github.io/YUME-Project/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/stdstu12/YUME)
 
-* **LingBot-World**, "Advancing Open-source World Models". [![arXiv](https://img.shields.io/badge/arXiv-2601.20540-b31b1b.svg)](https://arxiv.org/abs/2601.20540) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lingbotai.world/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Robbyant/lingbot-world)(Currently bidirectional model nly)
+* **LingBot-World**, "Advancing Open-source World Models". [![arXiv](https://img.shields.io/badge/arXiv-2601.20540-b31b1b.svg)](https://arxiv.org/abs/2601.20540) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lingbotai.world/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Robbyant/lingbot-world)
 
 ### 2.2 Avtar
 
