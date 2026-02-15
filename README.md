@@ -90,7 +90,7 @@ Generation with Memory Retrieval". [![arXiv](https://img.shields.io/badge/arXiv-
 
 ## 2.2 Video Action World Model
 
-* **Genie3**, "Genie3: A general purpose world model that can generate an unprecedented diversity of interactive environments". [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/models/genie/) 
+* **Genie3**. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/models/genie/) 
 
 * **Matrix-game 2.0**, "Matrix-game 2.0: An open-source real-time and
 streaming interactive world model". [![arXiv](https://img.shields.io/badge/arXiv-2508.13009-b31b1b.svg)](https://arxiv.org/abs/2508.13009) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://matrix-game-v2.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-2) 
