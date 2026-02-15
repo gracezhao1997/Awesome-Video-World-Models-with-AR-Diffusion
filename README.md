@@ -60,7 +60,7 @@ This category of algorithms focuses on **distilling multi-step bidirectional dif
 
 ## 1.3 Long Video Generation
 
-* Long video quality
+* From Short-video Generator to Long-video Generator:
 
     * **LongLive**, "LongLive: Real-time Interactive Long Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2509.22622-b31b1b.svg)](https://arxiv.org/abs/2509.22622) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://nvlabs.github.io/LongLive/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/NVlabs/LongLive) 
     * **Rolling Forcing**, "Rolling Forcing: Autoregressive Long Video Diffusion in Real Time". [![arXiv](https://img.shields.io/badge/arXiv-2509.25161-b31b1b.svg)](https://arxiv.org/abs/2509.25161) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://kunhao-liu.github.io/Rolling_Forcing_Webpage/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/TencentARC/RollingForcing)
@@ -69,7 +69,7 @@ This category of algorithms focuses on **distilling multi-step bidirectional dif
     * **Infinity-RoPE**, "Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout". [![arXiv](https://img.shields.io/badge/arXiv-2511.20649-b31b1b.svg)](https://arxiv.org/abs/2511.20649)  [![Website](https://img.shields.io/badge/Website-Link-blue)](https://infinity-rope.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/yesiltepe-hidir/infinity-rope) 
     * **Deep Forcing**, "Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression". [![arXiv](https://img.shields.io/badge/arXiv-2512.05081-b31b1b.svg)](https://arxiv.org/abs/2512.05081) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cvlab-kaist.github.io/DeepForcing/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/cvlab-kaist/DeepForcing) 
 
-* Long-term Memory
+* Long-term Memory:
     * **WORLDMEM**, "WORLDMEM: Long-term Consistent
 World Simulation with Memory". [![arXiv](https://img.shields.io/badge/arXiv-2504.12369-b31b1b.svg)](https://arxiv.org/abs/2504.12369) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xizaoqu.github.io/worldmem/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/xizaoqu/WorldMem)
     * **VRAG**, "Learning World Models for Interactive Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2505.21996-b31b1b.svg)](https://arxiv.org/abs/2505.21996) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/vrag) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/yeyutaihan/vrag) 
