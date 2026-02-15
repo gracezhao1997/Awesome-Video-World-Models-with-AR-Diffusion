@@ -9,12 +9,12 @@ a promising paradigm for scalable and consistent world modeling (e.g., Genie 3).
 and enthusiasts interested in AR diffusion-based video world modeling.
 
 We organize the evolving ecosystem of AR diffusion world models 
-from three complementary perspectives: algorithmic foundations, real-world applications, 
-and system-level acceleration. Together, these dimensions reflect the full stack 
+from three complementary perspectives: **algorithmic foundations, real-world applications, 
+and system-level acceleration**. Together, these dimensions reflect the full stack 
 of AR diffusion world modeling — from modeling design to real-time deployment.
 
 🎯 **Notes**  
-- We have not yet compiled an exhaustive list of all related work.  We apologize for any omissions and welcome pull requests to merge them in.
+- We have not yet compiled an exhaustive list of all related work.  We apologize for any omissions and **welcome pull requests to merge them in**.
 
 - We also welcome high-level categorization, synthesis, and perspective contributions to improve the organization and clarity of this repository.
 
