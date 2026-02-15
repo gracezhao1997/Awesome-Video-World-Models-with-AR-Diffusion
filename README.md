@@ -123,7 +123,7 @@ with Long-Horizon Memory". [![arXiv](https://img.shields.io/badge/arXiv-2512.040
 
 ## 3 Infrastructure
 
-## 3.1 Sparsity
+## 3.1 Sparse Attention
 
 * **Dummy Forcing**, "Efficient Autoregressive Video Diffusion with Dummy Head". [![arXiv](https://img.shields.io/badge/arXiv-2601.20499-b31b1b.svg)](https://arxiv.org/abs/2601.20499) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://csguoh.github.io/project/DummyForcing/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/csguoh/DummyForcing)
 * **Light Forcing**, "Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention". [![arXiv](https://img.shields.io/badge/arXiv-2602.04789-b31b1b.svg)](https://arxiv.org/abs/2602.04789) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/chengtao-lv/LightForcing)
