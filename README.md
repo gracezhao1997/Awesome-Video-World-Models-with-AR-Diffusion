@@ -3,10 +3,22 @@
 #  📹 Awesome Video World Models with AR Diffusion
 </div>
 
-### Overview
-This repository surveys autoregressive-diffusion video generation models (AR video diffusion). They combine diffusion-level quality with autoregressive controllability, and become real-time after few-step distillation—emerging as a new paradigm for video generation and video world models. We cover recent work on both multi-step AR video diffusion and distilled few-step AR models, from core algorithms to diverse downstream tasks.
+## Overview
+This repository focuses on **Video World Models with Autoregressive (AR) Diffusion**, 
+a promising paradigm for scalable and consistent world modeling (e.g., Genie 3). It aims to serve as a comprehensive and structured resource for researchers, practitioners, 
+and enthusiasts interested in AR diffusion-based video world modeling.
 
-### Table of Contents
+We organize the evolving ecosystem of AR diffusion world models 
+from three complementary perspectives: algorithmic foundations, real-world applications, 
+and system-level acceleration. Together, these dimensions reflect the full stack 
+of AR diffusion world modeling — from modeling design to real-time deployment.
+
+🎯 **Notes**  
+- We have not yet compiled an exhaustive list of all related work.  We apologize for any omissions and welcome pull requests to merge them in.
+
+- We also welcome high-level categorization, synthesis, and perspective contributions to improve the organization and clarity of this repository.
+
+## Table of Contents
 
 - [1. Algorithm](#1-algorithm)
     - [1.1 AR Diffusion (native pretraining)](#11-ar-diffusion-native-pretraining)
@@ -28,7 +40,7 @@ This repository surveys autoregressive-diffusion video generation models (AR vid
 ## 1. Algorithm
 ## 1.1 AR Diffusion (native pretraining)
 
-These methods focus on basic **AR Diffusion (where each chunk/frame is generated via diffusion and the frames are AR)**, which, while enabling streaming generation, still rely on multi-step sampling, making real-time generation challenging.
+These methods focus on basic **AR Diffusion (where each chunk/frame is generated via diffusion and the frames are AR)**.
 
 * **Diffusion Forcing**: "Next-token Prediction Meets Full-Sequence Diffusion". [![arXiv](https://img.shields.io/badge/arXiv-2407.01392-b31b1b.svg)](https://arxiv.org/abs/2407.01392) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://boyuan.space/diffusion-forcing) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/buoyancy99/diffusion-forcing)
 * **DFoT**, "History-Guided Video Diffusion". [![arXiv](https://img.shields.io/badge/arXiv-2502.01392-b31b1b.svg)](https://arxiv.org/abs/2502.06764) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://boyuan.space/history-guidance/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/kwsong0113/diffusion-forcing-transformer)
