@@ -17,9 +17,10 @@ This repository surveys autoregressive-diffusion video generation models (AR vid
     - [2.2 Video Action World Model](#22-video-action-world-model)
     - [2.2 Avtar](#23-avtar)
 - [3. Infrastructure](#3-infrastructure)
-    - [3.1 Sparse Attention](#31-sparse-attention)
+    - [3.1 Sparsity](#31-sparsity)
     - [3.2 Caching](#32-caching)
-    - [3.2 Quantized Attention](#33-quantized-attention)
+    - [3.3 Quantization](#33-quantization)
+    - [3.4 Others](#34-others)
 - [Contributing](#contributing)
 - [Acknowledgment](#acknowledgment)
 
