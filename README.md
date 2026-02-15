@@ -30,16 +30,15 @@ This repository surveys autoregressive-diffusion video generation models (AR vid
 These methods focus on basic **AR Diffusion (where each chunk/frame is generated via diffusion and the frames are AR)**, which, while enabling streaming generation, still rely on multi-step sampling, making real-time generation challenging.
 
 * **Diffusion Forcing**: Next-token Prediction Meets Full-Sequence Diffusion. [![arXiv](https://img.shields.io/badge/arXiv-2407.01392-b31b1b.svg)](https://arxiv.org/abs/2407.01392) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://boyuan.space/diffusion-forcing) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/buoyancy99/diffusion-forcing)
-* **DFoT**, "Diffusion Forcing Transformer with History Guidance".
-    [![arXiv](https://img.shields.io/badge/arXiv-2407.01392-b31b1b.svg)](https://arxiv.org/abs/2502.06764) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://boyuan.space/history-guidance/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/kwsong0113/diffusion-forcing-transformer)
-    
+* **DFoT**, "Diffusion Forcing Transformer with History Guidance". [![arXiv](https://img.shields.io/badge/arXiv-2502.01392-b31b1b.svg)](https://arxiv.org/abs/2502.06764) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://boyuan.space/history-guidance/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/kwsong0113/diffusion-forcing-transformer)
+* **AR -iffusion**, "AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion". [![arXiv](https://img.shields.io/badge/arXiv-2407.01392-b31b1b.svg](https://arxiv.org/abs/2503.07418)[![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/iva-mzsun/AR-Diffusion)
 * **PFVG**, "Pack and force your memory: Long-form and consistent video generation". [![arXiv](https://img.shields.io/badge/arXiv-2510.01784-b31b1b.svg)](https://arxiv.org/abs/2510.01784) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wuxiaofei01.github.io/PFVG/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/wuxiaofei01/PFVG)
 * **BAgger**, "BAgger: Backwards Aggregation for
 Mitigating Drift in Autoregressive Video Diffusion Models". [![arXiv](https://img.shields.io/badge/arXiv-2512.12080-b31b1b.svg)](https://arxiv.org/abs/2512.12080) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ryanpo.com/bagger/)
 * **Resampling Forcing**, "End-to-End Training for Autoregressive Video Diffusion via Self-Resampling". [![arXiv](https://img.shields.io/badge/arXiv-2512.15702-b31b1b.svg)](https://arxiv.org/abs/2512.15702) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://guoyww.github.io/projects/resampling-forcing/) 
 
 
-## 1.2 Application
+### Pretrained AR Diffusion Models
 * **MAGI-1**, "MAGI-1: Autoregressive Video Generation at Scale". [![arXiv](https://img.shields.io/badge/arXiv-2505.13211-b31b1b.svg)](https://arxiv.org/abs/2505.13211) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sand.ai/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/SandAI-org/MAGI-1)
 
 * **SkyReels**, "SkyReels-V2: Infinite-length Film Generative Model". [![arXiv](https://img.shields.io/badge/arXiv-2504.13074-b31b1b.svg)](https://arxiv.org/abs/2504.13074) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.skyreels.ai/home?utm_campaign=github_SkyReels_V2) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/SkyworkAI/SkyReels-V2)
