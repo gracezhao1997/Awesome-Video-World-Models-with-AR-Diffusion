@@ -56,7 +56,7 @@ for Real-Time Interactive Video Generation". [![arXiv](https://img.shields.io/ba
 * [⭐] **Causal Forcing**, "Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2602.02214-b31b1b.svg)](https://arxiv.org/abs/2602.02214) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://thu-ml.github.io/CausalForcing.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/thu-ml/Causal-Forcing) 
 
 $$\boxed{
-\text{CausVid} \xrightarrow{\text{fixing_DMD}} \text{Self Forcing} \xrightarrow{\text{fixing_ODE}} \text{Causal Forcing}
+\text{CausVid} \xrightarrow{\text{fixing-DMD}} \text{Self Forcing} \xrightarrow{\text{fixing-ODE}} \text{Causal Forcing}
 }
 $$
 
