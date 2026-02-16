@@ -16,10 +16,17 @@ from three complementary perspectives: **algorithmic foundations, real-world app
 and system-level acceleration**. Together, these dimensions reflect the full stack 
 of AR diffusion world modeling — from modeling design to real-time deployment.
 
-🎯 **Notes**  
-- We have not yet compiled an exhaustive list of all related work.  We apologize for any omissions and **welcome pull requests to merge them in**.
+📬 **Contact**  
 
-- We also welcome high-level categorization, synthesis, and perspective contributions to improve the organization and clarity of this repository.
+This repository is curated and maintained by:
+* [**Min Zhao**](https://gracezhao1997.github.io/) ([gracezhao1997@gmail.com](mailto:gracezhao1997@gmail.com))
+* [**Hongzhou Zhu**](https://zhuhz22.github.io/) ([suinibian74@gmail.com](mailto:suinibian74@gmail.com))
+* [**Wenqiang Sun**](https://scholar.google.com/citations?user=XEUeiTEAAAAJ&hl=en) ([sunwq0814@gmail.com](mailto:sunwq0814@gmail.com))
+
+For any questions or suggestions, please feel free to reach out to us. 
+
+* 🎯 We have not yet compiled an exhaustive list of all related work. We apologize for any omissions and **welcome pull requests to merge them in**.
+* 💡 We also welcome high-level categorization, synthesis, and perspective contributions to improve the organization and clarity of this repository.
 
 ## Table of Contents
 
