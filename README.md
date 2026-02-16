@@ -28,6 +28,7 @@ of AR diffusion world modeling — from modeling design to real-time deployment.
     - [2.1 Open-source AR Video Foundation Models](#21-open-source-ar-video-foundation-models)
     - [2.2 Video Action World Model](#22-video-action-world-model)
     - [2.2 Avtar & Motion Control](#23-avtar--motion-control)
+    - [2.4 Egocentric Interaction](#24-egocentric-interaction)
 - [3. Infrastructure](#3-infrastructure)
     - [3.1 Sparse Attention](#31-sparse-attention)
     - [3.2 Caching](#32-caching)
@@ -132,6 +133,15 @@ with Long-Horizon Memory". [![arXiv](https://img.shields.io/badge/arXiv-2512.040
 * **SoulX-FlashTalk**, "SoulX-FlashTalk: Real-Time Infinite Streaming of Audio-Driven Avatars via Self-Correcting Bidirectional Distillation". [![arXiv](https://img.shields.io/badge/arXiv-2512.23379-b31b1b.svg)](https://arxiv.org/abs/2512.23379) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://soul-ailab.github.io/soulx-flashtalk/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Soul-AILab/SoulX-FlashTalk)
 * **LiveTalk**, "LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation". [![arXiv](https://img.shields.io/badge/arXiv-2512.23576-b31b1b.svg)](https://arxiv.org/abs/2512.23576) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/GAIR-NLP/LiveTalk)
 * **Avatar Forcing**, "Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation". [![arXiv](https://img.shields.io/badge/arXiv-2601.00664-b31b1b.svg)](https://arxiv.org/abs/2601.00664) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://taekyungki.github.io/AvatarForcing/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/TaekyungKi/AvatarForcing)
+
+## 2.4 Egocentric Interaction
+
+This category focuses on **first-person (egocentric) video generation**, emphasizing hand-object interaction for VR and Embodied AI.
+
+* **Hand2World**, "Hand2World: Autoregressive Egocentric Interaction Generation via Free-Space
+Hand Gestures". [![arXiv](https://img.shields.io/badge/arXiv-2602.09600-b31b1b.svg)](https://arxiv.org/pdf/2602.09600) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://hand2world.github.io/) 
+
+
 ## 3 Infrastructure
 
 ## 3.1 Sparse Attention
