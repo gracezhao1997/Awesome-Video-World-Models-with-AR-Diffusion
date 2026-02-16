@@ -29,9 +29,9 @@ of AR diffusion world modeling — from modeling design to real-time deployment.
     - [2.2 Video Action World Model](#22-video-action-world-model)
     - [2.2 Avtar & Motion Control](#23-avtar--motion-control)
 - [3. Infrastructure](#3-infrastructure)
-    - [3.1 Sparsity](#31-sparsity)
+    - [3.1 Sparse Attention](#31-sparse-attention)
     - [3.2 Caching](#32-caching)
-    - [3.3 Quantization](#33-quantization)
+    - [3.3 Quantized Attention](#33-quantized-attention)
     - [3.4 Others](#34-others)
 - [Contributing](#contributing)
 - [Acknowledgment](#acknowledgment)
@@ -132,7 +132,7 @@ with Long-Horizon Memory". [![arXiv](https://img.shields.io/badge/arXiv-2512.040
 * **Avatar Forcing**, "Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation". [![arXiv](https://img.shields.io/badge/arXiv-2601.00664-b31b1b.svg)](https://arxiv.org/abs/2601.00664) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://taekyungki.github.io/AvatarForcing/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/TaekyungKi/AvatarForcing)
 ## 3 Infrastructure
 
-## 3.1 Sparsity
+## 3.1 Sparse Attention
 
 * **Dummy Forcing**, "Efficient Autoregressive Video Diffusion with Dummy Head". [![arXiv](https://img.shields.io/badge/arXiv-2601.20499-b31b1b.svg)](https://arxiv.org/abs/2601.20499) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://csguoh.github.io/project/DummyForcing/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/csguoh/DummyForcing)
 * **Light Forcing**, "Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention". [![arXiv](https://img.shields.io/badge/arXiv-2602.04789-b31b1b.svg)](https://arxiv.org/abs/2602.04789) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/chengtao-lv/LightForcing)
@@ -145,7 +145,7 @@ with Long-Horizon Memory". [![arXiv](https://img.shields.io/badge/arXiv-2512.040
 * **FlowCache**, "Flow caching for autoregressive video generation". [![arXiv](https://img.shields.io/badge/arXiv-2602.10825-b31b1b.svg)](https://arxiv.org/abs/2602.10825)  [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/mikeallen39/FlowCache)
 
 
-## 3.3 Quantization
+## 3.3 Quantized Attention
 * **Quant VideoGen**, "Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization". [![arXiv](https://img.shields.io/badge/arXiv-2602.02958-b31b1b.svg)](https://arxiv.org/abs/2602.02958)
 
 ### 3.4 Others
