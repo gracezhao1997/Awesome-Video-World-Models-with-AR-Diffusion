@@ -170,7 +170,7 @@ Hand Gestures". [![arXiv](https://img.shields.io/badge/arXiv-2602.09600-b31b1b.s
 ## 3.3 Quantized Attention
 * **Quant VideoGen**, "Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization". [![arXiv](https://img.shields.io/badge/arXiv-2602.02958-b31b1b.svg)](https://arxiv.org/abs/2602.02958)
 
-### 3.4 Others
+## 3.4 Others
 * **SCD**, "Causality in Video Diffusers is Separable from Denoising". [![arXiv](https://img.shields.io/badge/arXiv-2602.10095-b31b1b.svg)](https://arxiv.org/abs/2602.10095)
 
 ---
