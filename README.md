@@ -36,8 +36,8 @@ For any questions or suggestions, please feel free to reach out to us.
     - [1.3 Long Video Generation](#13-long-video-generation)
 - [2. Application](#2-application)
     - [2.1 Open-source AR Video Foundation Models](#21-open-source-ar-video-foundation-models)
-    - [2.2 Video Action World Model](#22-video-action-world-model)
-    - [2.2 Avtar & Motion Control](#23-avtar--motion-control)
+    - [2.2 Interactive Video Action World Model](#22-interactive-video-action-world-model)
+    - [2.3 Real-time Interactive Avtar & Motion Control](#23-real-time-interactive-avtar--motion-control)
     - [2.4 Egocentric Interaction](#24-egocentric-interaction)
 - [3. Infrastructure](#3-infrastructure)
     - [3.1 Sparse Attention](#31-sparse-attention)
@@ -115,7 +115,7 @@ Generation with Memory Retrieval". [![arXiv](https://img.shields.io/badge/arXiv-
 * **MAGI-1**, "MAGI-1: Autoregressive Video Generation at Scale". [![arXiv](https://img.shields.io/badge/arXiv-2505.13211-b31b1b.svg)](https://arxiv.org/abs/2505.13211) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sand.ai/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/SandAI-org/MAGI-1)
 
 
-## 2.2 Video Action World Model
+## 2.2 Interactive Video Action World Model
 
 * **Genie3**. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/models/genie/) 
 
@@ -136,7 +136,7 @@ with Long-Horizon Memory". [![arXiv](https://img.shields.io/badge/arXiv-2512.040
 
 
 
-## 2.3 Avtar & Motion Control
+## 2.3 Real-time Interactive Avtar & Motion Control
 * **MotionStream**, "MotionStream: Real-Time Video Generation with Interactive Motion Controls".  [![arXiv](https://img.shields.io/badge/arXiv-2511.01266-b31b1b.svg)](https://arxiv.org/abs/2511.01266) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://joonghyuk.com/motionstream-web) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/alex4727/motionstream)  
 * **RealVideo**, [![Website](https://img.shields.io/badge/Website-Link-blue)](https://z.ai/blog/realvideo) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/zai-org/RealVideo) 
 * **LiveAvatar**, "Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length". [![arXiv](https://img.shields.io/badge/arXiv-2512.04677-b31b1b.svg)](https://arxiv.org/abs/2512.04677) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://liveavatar.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Alibaba-Quark/LiveAvatar)
