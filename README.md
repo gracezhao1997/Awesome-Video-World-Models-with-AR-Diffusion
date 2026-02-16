@@ -1,6 +1,9 @@
 <div align="center">
 
 #  📹 Awesome Video World Models with AR Diffusion
+
+[![WeChat](https://img.shields.io/badge/WeChat-Join%20Group-green?logo=wechat&logoColor=white)](assets/wechat.jpg)
+
 </div>
 
 ## Overview
