@@ -2,6 +2,8 @@
 
 #  📹 Awesome Video World Models with AR Diffusion
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gracezhao1997.Awesome-Video-World-Models-with-AR-Diffusion)
 [![WeChat](https://img.shields.io/badge/WeChat-Join%20Group-green?logo=wechat&logoColor=white)](assets/wechat.jpg)
 
 </div>
