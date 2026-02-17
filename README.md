@@ -16,7 +16,7 @@ and enthusiasts interested in AR diffusion-based video world modeling.
 We organize the evolving ecosystem of AR diffusion world models 
 from three complementary perspectives: **algorithmic foundations, real-world applications, 
 and system-level acceleration**. Together, these dimensions reflect the full stack 
-of AR diffusion world modeling — from modeling design to real-time Interactive deployment.
+of AR diffusion world modeling — from modeling design to real-time interactive deployment.
 
 📬 **Contact**  
 
