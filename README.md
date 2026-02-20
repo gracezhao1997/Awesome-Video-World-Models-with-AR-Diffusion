@@ -167,6 +167,7 @@ Hand Gestures". [![arXiv](https://img.shields.io/badge/arXiv-2602.09600-b31b1b.s
 * **TokenTrim**, "TokenTrim: Inference-Time Token Pruning for Autoregressive Long Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2602.00268-b31b1b.svg)](https://arxiv.org/abs/2602.00268) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://arielshaulov.github.io/TokenTrim/)
 * **PaFu-KV**, "Past- and Future-Informed KV Cache Policy with Salience Estimation in Autoregressive Video Diffusion". [![arXiv](https://img.shields.io/badge/arXiv-2601.21896-b31b1b.svg)](https://arxiv.org/abs/2601.21896)
 * **MonarchRT**, "MonarchRT: Efficient Attention for Real-Time Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2602.12271-b31b1b.svg)](https://arxiv.org/abs/2602.12271)
+* **SCD**, "Causality in Video Diffusers is Separable from Denoising". [![arXiv](https://img.shields.io/badge/arXiv-2602.10095-b31b1b.svg)](https://arxiv.org/abs/2602.10095)
   
 ## 3.2 Caching
 * **FlowCache**, "Flow caching for autoregressive video generation". [![arXiv](https://img.shields.io/badge/arXiv-2602.10825-b31b1b.svg)](https://arxiv.org/abs/2602.10825)  [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/mikeallen39/FlowCache)
@@ -175,8 +176,8 @@ Hand Gestures". [![arXiv](https://img.shields.io/badge/arXiv-2602.09600-b31b1b.s
 ## 3.3 Quantized Attention
 * **Quant VideoGen**, "Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization". [![arXiv](https://img.shields.io/badge/arXiv-2602.02958-b31b1b.svg)](https://arxiv.org/abs/2602.02958)
 
-## 3.4 Others
-* **SCD**, "Causality in Video Diffusers is Separable from Denoising". [![arXiv](https://img.shields.io/badge/arXiv-2602.10095-b31b1b.svg)](https://arxiv.org/abs/2602.10095)
+
+
 
 ---
 ### Contributing
