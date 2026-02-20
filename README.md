@@ -94,6 +94,9 @@ This category of algorithms focuses on **distilling multi-step bidirectional dif
     * **Infinite Forcing**, [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/SOTAMak1r/Infinite-Forcing)
     * **Infinity-RoPE**, "Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout". [![arXiv](https://img.shields.io/badge/arXiv-2511.20649-b31b1b.svg)](https://arxiv.org/abs/2511.20649)  [![Website](https://img.shields.io/badge/Website-Link-blue)](https://infinity-rope.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/yesiltepe-hidir/infinity-rope) 
     * **Deep Forcing**, "Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression". [![arXiv](https://img.shields.io/badge/arXiv-2512.05081-b31b1b.svg)](https://arxiv.org/abs/2512.05081) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cvlab-kaist.github.io/DeepForcing/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/cvlab-kaist/DeepForcing) 
+    * **FLEX**, "Train Short, Inference Long: Training-free Horizon Extension for
+    Autoregressive Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2602.14027-b31b1b.svg)](https://arxiv.org/pdf/2602.14027) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ga-lee.github.io/FLEX_demo/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Ga-Lee/Frequency-aware-Length-EXtension) 
+
 
 * Long-term Memory:
     * **WORLDMEM**, "WORLDMEM: Long-term Consistent
