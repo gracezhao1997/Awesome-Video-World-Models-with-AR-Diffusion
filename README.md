@@ -111,6 +111,8 @@ Generation with Memory Retrieval". [![arXiv](https://img.shields.io/badge/arXiv-
     * **LIVE**, "LIVE: Long-horizon Interactive Video World Modeling". [![arXiv](https://img.shields.io/badge/arXiv-2602.03747-b31b1b.svg)](https://arxiv.org/abs/2602.03747) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://junchao-cs.github.io/LIVE-demo/) 
     * **Infinite-World**, "Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory". [![arXiv](https://img.shields.io/badge/arXiv-2602.02393-b31b1b.svg)](https://arxiv.org/abs/2602.02393)
     * **Context Forcing**, "Context Forcing: Consistent Autoregressive Video Generation with Long Context". [![arXiv](https://img.shields.io/badge/arXiv-2602.06028-b31b1b.svg)](https://arxiv.org/abs/2602.06028) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://chenshuo20.github.io/Context_Forcing/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/TIGER-AI-Lab/Context-Forcing)
+    * **ViewRope**, "Geometry-Aware Rotary Position Embedding for Consistent Video World Model". [![arXiv](https://img.shields.io/badge/arXiv-2602.07854-b31b1b.svg)](https://www.arxiv.org/pdf/2602.07854) 
+
 ## 2. Application
 
 > Up to 26.01 now. Welcome Pull Requests!
