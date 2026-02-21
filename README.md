@@ -45,7 +45,6 @@ For any questions or suggestions, please feel free to reach out to us.
     - [3.1 Sparse Attention](#31-sparse-attention)
     - [3.2 Caching](#32-caching)
     - [3.3 Quantized Attention](#33-quantized-attention)
-    - [3.4 Others](#34-others)
 - [Contributing](#contributing)
 - [Acknowledgment](#acknowledgment)
 
