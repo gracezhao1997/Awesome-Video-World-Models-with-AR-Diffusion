@@ -13,17 +13,13 @@ This repository focuses on **Video World Models with Autoregressive (AR) Diffusi
 a promising paradigm for **scalable, consistent and interactive world modeling** (e.g., Genie 3). It aims to serve as a comprehensive and structured resource for researchers, practitioners,i
 and enthusiasts interested in AR diffusion-based video world modeling.
 
-We organize the evolving ecosystem of AR diffusion world models 
-from three complementary perspectives: **algorithmic foundations, real-world applications, 
-and system-level acceleration**. Together, these dimensions reflect the full stack 
-of AR diffusion world modeling — from modeling design to real-time interactive deployment.
 
-🌟 **Key Features**
-* **Structured Taxonomy:** From algorithmic foundations to system-level acceleration.
-* **One-Stop Citation:** 📚 We provide a **[consolidated BibTeX file](video-world-models.bib)** containing all papers listed in this repository. You can easily import it into your LaTeX projects!
+### 🌟 Key Features
+* **[Structured Taxonomy](#-table-of-contents):** We organize the evolving ecosystem from three complementary perspectives: **Algorithmic Foundations**, **Real-world Applications**, and **System-level Acceleration**. Together, these dimensions reflect the full stack of AR diffusion—from modeling design to real-time interactive deployment.
+* **[One-Stop Citation Collection](./video-world-models.bib):** 📚 We provide a **consolidated BibTeX file** containing all papers listed in this repository. You can easily import it into your LaTeX or Zotero projects with one click!
 
 
-📬 **Contact**  
+### 📬 Contact
 
 This repository is curated and maintained by:
 * [**Min Zhao**](https://gracezhao1997.github.io/) ([gracezhao1997@gmail.com](mailto:gracezhao1997@gmail.com))
