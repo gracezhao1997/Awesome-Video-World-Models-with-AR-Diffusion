@@ -123,6 +123,8 @@ Generation with Memory Retrieval". [![arXiv](https://img.shields.io/badge/arXiv-
 
 * **Genie3**. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/models/genie/) 
 
+* **Yan**, "Yan: Foundational Interactive Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2508.08601-b31b1b.svg)](https://arxiv.org/pdf/2508.08601) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://greatx3.github.io/Yan/)
+
 * **Matrix-game 2.0**, "Matrix-game 2.0: An open-source real-time and
 streaming interactive world model". [![arXiv](https://img.shields.io/badge/arXiv-2508.13009-b31b1b.svg)](https://arxiv.org/abs/2508.13009) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://matrix-game-v2.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-2) 
 
