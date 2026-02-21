@@ -15,7 +15,7 @@ and enthusiasts interested in AR diffusion-based video world modeling.
 
 
 ### 🌟 Key Features
-* **[Structured Taxonomy](#-table-of-contents):** We organize the evolving ecosystem from three complementary perspectives: **Algorithmic Foundations**, **Real-world Applications**, and **System-level Acceleration**. Together, these dimensions reflect the full stack of AR diffusion—from modeling design to real-time interactive deployment.
+* **[Structured Taxonomy](#table-of-contents):** We organize the evolving ecosystem from three complementary perspectives: **Algorithmic Foundations**, **Real-world Applications**, and **System-level Acceleration**. Together, these dimensions reflect the full stack of AR diffusion—from modeling design to real-time interactive deployment.
 * **[One-Stop Citation Collection](./video-world-models.bib):** 📚 We provide a **consolidated BibTeX file** containing all papers listed in this repository. You can easily import it into your LaTeX or Zotero projects with one click!
 
 
