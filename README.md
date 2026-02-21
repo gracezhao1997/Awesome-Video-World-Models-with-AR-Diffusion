@@ -84,6 +84,7 @@ This category of algorithms focuses on **distilling multi-step bidirectional dif
     for Real-Time Interactive Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2506.08009-b31b1b.svg)](https://arxiv.org/abs/2506.09350) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://seaweed-apt.com/2)
     * (One-step distillation) **ASD**, "Towards One-Step Causal Video Generation via Adversarial Self-Distillation". [![arXiv](https://img.shields.io/badge/arXiv-2511.01419-b31b1b.svg)](https://arxiv.org/abs/2511.01419) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/BigAandSmallq/SAD)
     * (Reinforcement learning) **Reward Forcing**, "Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation". [![arXiv](https://img.shields.io/badge/arXiv-2512.04678-b31b1b.svg)](https://arxiv.org/abs/2512.04678) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://reward-forcing.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/JaydenLyh/Reward-Forcing)
+    * (Reinforcement learning) **WorldCompass**, "WorldCompass: Reinforcement Learning for Long-Horizon World Models". [![arXiv](https://img.shields.io/badge/arXiv-2602.09022-b31b1b.svg)](https://arxiv.org/pdf/2602.09022) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://3d-models.hunyuan.tencent.com/world/)
 
 ## 1.3 Long Video Generation
 
