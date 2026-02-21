@@ -18,6 +18,11 @@ from three complementary perspectives: **algorithmic foundations, real-world app
 and system-level acceleration**. Together, these dimensions reflect the full stack 
 of AR diffusion world modeling — from modeling design to real-time interactive deployment.
 
+🌟 **Key Features**
+* **Structured Taxonomy:** From algorithmic foundations to system-level acceleration.
+* **One-Stop Citation:** 📚 We provide a **[consolidated BibTeX file](video-world-models.bib)** containing all papers listed in this repository. You can easily import it into your LaTeX projects!
+
+
 📬 **Contact**  
 
 This repository is curated and maintained by:
