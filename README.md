@@ -11,7 +11,7 @@
 ## Overview
 This repository focuses on **Video World Models with Autoregressive (AR) Diffusion**, 
 a promising paradigm for **scalable, consistent and interactive world modeling** (e.g., Genie 3). It aims to serve as a comprehensive and structured resource for researchers, practitioners,i
-and enthusiasts interested in AR diffusion-based video world modeling.
+and enthusiasts interested in AR diffusion-based video world modeling. To stay at the forefront of the field, **this repository is updated weekly**.
 
 
 ### 🌟 Key Features
