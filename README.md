@@ -101,6 +101,7 @@ This category of algorithms focuses on **distilling multi-step bidirectional dif
     * **FLEX**, "Train Short, Inference Long: Training-free Horizon Extension for
     Autoregressive Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2602.14027-b31b1b.svg)](https://arxiv.org/abs/2602.14027) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ga-lee.github.io/FLEX_demo/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Ga-Lee/Frequency-aware-Length-EXtension) [![BibTeX](https://img.shields.io/badge/BibTeX-Link-blue)](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion/blob/main/video-world-models.bib#L130)
     * **Rolling Sink**, "Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion". [![arXiv](https://img.shields.io/badge/arXiv-2602.07775-b31b1b.svg)](https://arxiv.org/abs/2602.07775) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://rolling-sink.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/haodong2000/RollingSink) [![BibTeX](https://img.shields.io/badge/BibTeX-Link-blue)](https://rolling-sink.github.io/bibtex.txt)
+    * **MMM**, "Mode Seeking meets Mean Seeking for Fast Long Video Generation". [![arXiv](https://img.shields.io/badge/arXiv-2602.24289-b31b1b.svg)](https://arxiv.org/abs/2602.24289) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://primecai.github.io/mmm/) [![BibTeX](https://img.shields.io/badge/BibTeX-Link-blue)](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion/blob/main/video-world-models.bib#L425)
 
 
 * Long-term Memory:
@@ -143,6 +144,8 @@ World Simulation". [![arXiv](https://img.shields.io/badge/arXiv-2511.09057-b31b1
 
 * **RELIC**, "RELIC: Interactive Video World Model
 with Long-Horizon Memory". [![arXiv](https://img.shields.io/badge/arXiv-2512.04040-b31b1b.svg)](https://arxiv.org/abs/2512.04040) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://relic-worldmodel.github.io/) [![BibTeX](https://img.shields.io/badge/BibTeX-Link-blue)](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion/blob/main/video-world-models.bib#L233)
+
+* **Astra**, "Astra: General Interactive World Model with Autoregressive Denoising". [![arXiv](https://img.shields.io/badge/arXiv-2512.08931-b31b1b.svg)](https://arxiv.org/abs/2512.08931) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/EternalEvan/Astra) [![BibTeX](https://img.shields.io/badge/BibTeX-Link-blue)](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion/blob/main/video-world-models.bib#L419)
 
 * **HY-WorldPlay**, "WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling". [![arXiv](https://img.shields.io/badge/arXiv-2512.14614-b31b1b.svg)](https://arxiv.org/abs/2512.14614) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://3d-models.hunyuan.tencent.com/world/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/Tencent-Hunyuan/HY-WorldPlay) [![BibTeX](https://img.shields.io/badge/BibTeX-Link-blue)](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion/blob/main/video-world-models.bib#L239)
 
