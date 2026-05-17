@@ -117,9 +117,10 @@ This category of algorithms focuses on **distilling multi-step bidirectional dif
      * **TempoMaster**, "TempoMaster: Efficient Long Video Generation via Next-Frame-Rate Prediction", [![arXiv](https://img.shields.io/badge/arXiv-2511.12578-b31b1b.svg)](https://arxiv.org/abs/2511.12578) [![BibTeX](https://img.shields.io/badge/BibTeX-Link-blue)](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion/blob/main/video-world-models.bib#L592)
      * **Hybrid Forcing**, "Long-Horizon Streaming Video Generation via
     Hybrid Attention with Decoupled Distillation", [![arXiv](https://img.shields.io/badge/arXiv-2604.10103-b31b1b.svg)](https://arxiv.org/pdf/2604.10103) [![BibTeX](https://img.shields.io/badge/BibTeX-Link-blue)](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion/blob/main/video-world-models.bib#L613)
-
+    * **Pyramid Forcing**, "Pyramid Forcing: Head-Aware Pyramid KV Cache Policy for High-Quality Long Video Generation",  [![arXiv](https://img.shields.io/badge/arXiv-2605.13111-b31b1b.svg)](https://arxiv.org/pdf/2605.13111) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://if-lab-pku.github.io/Pyramid-Forcing/) [![BibTeX](https://img.shields.io/badge/BibTeX-Link-blue)](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion/blob/main/video-world-models.bib#L715)
+    
 - Multi-Shot Long Video:
-    * **CausalCine**, "CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives". [![arXiv](https://img.shields.io/badge/arXiv-2605.12496-b31b1b.svg)](https://arxiv.org/abs/2605.12496) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yihao-meng.github.io/CausalCine/) [![BibTeX](https://img.shields.io/badge/BibTeX-Link-blue)](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion/blob/main/video-world-models.bib#L709)
+    * **CausalCine**, "CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives". [![arXiv](https://img.shields.io/badge/arXiv-2605.12496-b31b1b.svg)](https://arxiv.org/abs/2605.12496) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yihao-meng.github.io/CausalCine/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/IF-LAB-PKU/Pyramid-Forcing) [![BibTeX](https://img.shields.io/badge/BibTeX-Link-blue)](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion/blob/main/video-world-models.bib#L709)
 
 
 * Long-term Memory:
