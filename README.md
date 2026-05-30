@@ -13,6 +13,9 @@ This repository focuses on **Video World Models with Autoregressive (AR) Diffusi
 a promising paradigm for **scalable, consistent and interactive world modeling** (e.g., Genie 3). It aims to serve as a comprehensive and structured resource for researchers, practitioners,i
 and enthusiasts interested in AR diffusion-based video world modeling. To stay at the forefront of the field, **this repository is updated weekly**.
 
+## Full-Stack Open Source Framework
+
+Try our [minWM](https://github.com/shengshu-ai/minWM), the first full-stack open-source framework that walks you end-to-end through turning a bidirectional T2V foundation model into an action-conditioned video world model — with **example data, runnable scripts, Claude skills capturing our hands-on experience, and onboarding knowledge for newcomers**!
 
 ### 🌟 Key Features
 * **[Structured Taxonomy](#table-of-contents):** We organize the evolving ecosystem from three complementary perspectives: **Algorithmic Foundations**, **Real-world Applications**, and **Infrastructure-level Acceleration**. Together, these dimensions reflect the full stack of AR diffusion—from modeling design to real-time interactive deployment.
