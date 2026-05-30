@@ -13,9 +13,13 @@ This repository focuses on **Video World Models with Autoregressive (AR) Diffusi
 a promising paradigm for **scalable, consistent and interactive world modeling** (e.g., Genie 3). It aims to serve as a comprehensive and structured resource for researchers, practitioners,i
 and enthusiasts interested in AR diffusion-based video world modeling. To stay at the forefront of the field, **this repository is updated weekly**.
 
-## Full-Stack Open Source Framework
+### 🔥NEW: minWM: The First Full-Stack Open-Source World Model Framework
 
 Try our [minWM](https://github.com/shengshu-ai/minWM), the first full-stack open-source framework that walks you end-to-end through turning a bidirectional T2V foundation model into an action-conditioned video world model — with **example data, runnable scripts, Claude skills capturing our hands-on experience, and onboarding knowledge for newcomers**!
+
+[![Code](https://img.shields.io/badge/Code-GitHub-green)]([https://github.com/kwsong0113/diffusion-forcing-transformer](https://github.com/shengshu-ai/minWM))
+<a href="https://arxiv.org/abs/2605.30263"><img src="https://img.shields.io/badge/Technical_Report-arXiv-b31b1b?logo=arxiv&logoColor=white" alt="Technical Report"></a>
+<a href="https://huggingface.co/MIN-Lab/minWM"><img src="https://img.shields.io/badge/Hugging_Face-Models-FFD21E?logo=huggingface&logoColor=black" alt="Hugging Face"></a>
 
 ### 🌟 Key Features
 * **[Structured Taxonomy](#table-of-contents):** We organize the evolving ecosystem from three complementary perspectives: **Algorithmic Foundations**, **Real-world Applications**, and **Infrastructure-level Acceleration**. Together, these dimensions reflect the full stack of AR diffusion—from modeling design to real-time interactive deployment.
