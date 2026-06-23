@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://www.atlascloud.ai/?utm_source=github&utm_medium=link&utm_campaign=awesome-video-world-models-with-ar-diffusion">
+    <img src="assets/atlas-cloud-logo.png" alt="Atlas Cloud" width="140" />
+  </a>
+  <br />
+  <sub><strong>Atlas Cloud</strong> provides async image/video generation APIs and OpenAI-compatible LLM APIs for multimodal generation workflows.</sub>
+</p>
+
 <div align="center">
 
 #  📹 Awesome Video World Models with AR Diffusion
